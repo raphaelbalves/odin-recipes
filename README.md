@@ -1,1 +1,1 @@
-## MY first project on The Odin Project (TOP)
+## My first project on The Odin Project (TOP)
